@@ -15,8 +15,6 @@
         var element = $(this);
         var others = element.parents('.choice-scope').find('.choice-toggle').not(this);
 
-        console.log(others);
-
         e.preventDefault();
         element.find('.choice-toggle-radio')[0].checked = true;
         
@@ -33,4 +31,5 @@
         );    
 
     });
-});
+
+})(jQuery, window, document);

@@ -1,13 +1,14 @@
 
 .okebanget-inline {
     display: inline-block;
-    margin: 10px 0 40px;
+    margin: 10px 0px;
 }
 
 .okebanget-inline .callout {
     min-width: 200px;
     width: auto;
     padding: 7px 20px;
+    margin-bottom: 10px;
     left: auto;
     font-size: 20.5pt;
 }
