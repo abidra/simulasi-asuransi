@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="75.09523mm"
-   height="52.493423mm"
-   viewBox="0 0 266.08548 186.00033"
+   height="46.642673mm"
+   viewBox="0 0 266.08548 165.26933"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -73,6 +73,26 @@
          d="m -600,1024.0945 c -11.0457,0 -20,8.9543 -20,20 l -40,7e-4 c -5.54,10e-5 -10,4.46 -10,10 0,5.5399 4.46,10.0001 10,10 l 60,-7e-4 30,0 c 5.54,0 10,-4.4601 10,-10 0,-5.54 -4.46,-10 -10,-10 l -10,0 c 0,-11.0457 -8.9543,-20 -20,-20 z"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4094">
+      <path
+         sodipodi:nodetypes="cscsccccscsc"
+         inkscape:connector-curvature="0"
+         id="path4096"
+         d="m -760,-135.90551 0,-40 c 0,-20 20,-20 20,-20 l 20,0 c 20,0 20,-20 20,-20 l 0,-20 40,0 0,20 c 0,0 0,20 20,20 l 20,0 c 0,0 20,0 20,20 l 0,40"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4094-4">
+      <path
+         sodipodi:nodetypes="cscsccccscsc"
+         inkscape:connector-curvature="0"
+         id="path4096-63"
+         d="m -760,-135.90551 0,-40 c 0,-20 20,-20 20,-20 l 20,0 c 20,0 20,-20 20,-20 l 0,-20 40,0 0,20 c 0,0 0,20 20,20 l 20,0 c 0,0 20,0 20,20 l 0,40"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -81,9 +101,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56637383"
-     inkscape:cx="267.93015"
-     inkscape:cy="12.82756"
+     inkscape:zoom="0.80097355"
+     inkscape:cx="93.154655"
+     inkscape:cy="89.044826"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -107,8 +127,8 @@
        type="xygrid"
        id="grid8099"
        empspacing="20"
-       originx="48.128219"
-       originy="-435.28676" />
+       originx="-548.64019"
+       originy="-317.00003" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -126,32 +146,30 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 1"
-     transform="translate(48.12822,-122.80741)">
-    <ellipse
-       cy="205.80772"
-       cx="74.914497"
+     transform="translate(-548.64018,-261.82513)">
+    <circle
+       r="60.000011"
+       cy="344.82544"
+       cx="671.68292"
        id="circle7271"
        style="opacity:1;fill:#e87722;fill-opacity:1;stroke:#ffffff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
-       inkscape:export-ydpi="59.016392"
-       rx="60.000004"
-       ry="60.000008" />
-    <ellipse
+       inkscape:export-ydpi="59.016392" />
+    <circle
        style="opacity:1;fill:none;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4728"
-       cx="74.914497"
-       cy="205.80772"
+       cx="671.68292"
+       cy="344.82544"
+       r="60.000011"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
-       inkscape:export-ydpi="59.016392"
-       rx="60.000004"
-       ry="60.000008" />
+       inkscape:export-ydpi="59.016392" />
     <rect
-       y="225.80774"
-       x="-45.085491"
-       height="80.000008"
-       width="220"
+       y="364.82544"
+       x="551.68292"
+       height="59.269032"
+       width="208.31715"
        id="rect4738"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
@@ -161,7 +179,7 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path4740"
-       d="m -45.085493,225.80774 80,0 20.000003,-20.00001 20,20.00001 40,0 20,-20.00001 20,20.00001 40,0"
+       d="m 551.68291,364.82546 80.00001,0 20,-20 20,20 40.00001,0 20,-20 20,20 40.00001,0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -169,7 +187,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4742"
-       d="m -5.085493,245.80774 60.000003,0"
+       d="m 591.68291,384.82546 60.00001,0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e87722;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -177,7 +195,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4744"
-       d="m 94.91451,245.80774 20,0"
+       d="m 691.68293,384.82546 20,0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e87722;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -185,7 +203,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4746"
-       d="m 74.91451,265.80774 80,0"
+       d="m 671.68292,404.82547 80.00001,0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -193,7 +211,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4748"
-       d="m 134.91451,245.80774 80,0"
+       d="m 731.68293,384.82546 80.00001,0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -201,7 +219,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4750"
-       d="m -45.085493,265.80774 60,0"
+       d="m 551.68291,404.82547 60,0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a8a7a7;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -209,10 +227,10 @@
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4977"
-       width="80"
+       width="80.000008"
        height="20.000002"
-       x="-45.085491"
-       y="125.8077"
+       x="551.68292"
+       y="264.82544"
        ry="10.000001"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -220,10 +238,10 @@
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4981"
-       width="60"
+       width="60.000008"
        height="20.000002"
-       x="154.91451"
-       y="165.80771"
+       x="751.68292"
+       y="304.82544"
        ry="10.000001"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"
@@ -232,7 +250,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path4985"
-       d="m 134.91451,125.80771 c 0,0 20,0 20,20.00001 0,-20.00001 20,-20.00001 20,-20.00001"
+       d="m 731.68293,264.82543 c 0,0 20,0 20,20.00001 0,-20.00001 20.00001,-20.00001 20.00001,-20.00001"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Gender\s6.png"
        inkscape:export-xdpi="59.016392"

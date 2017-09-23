@@ -34,11 +34,11 @@
                           </div>
                           </div>
                         </div>
-                          <?php include('./slides/1.php')?>
+                          <?php include('./slides/1.php') ?>
                       </section>
                       <h3>Effects</h3>
                       <section>
-                          <?php include('./slides/2.php')?>
+                          <?php include('./slides/2.php') ?>
                       </section>
                       <h3>Pager</h3>
                       <section>

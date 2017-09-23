@@ -15,6 +15,7 @@
 }
 
 .btn.btn-signature {
+    background: transparent;
     border: 1px solid #e87722;
     color: #e87722;
     padding: 6px 25px;
@@ -144,4 +145,20 @@
 }
 .content{
   background-color: #fff;
+}
+
+#content-master .steps, #content-master .actions, #content-master .content .title {
+    display: none;
+}
+
+#navigator {
+    margin-top: 30px;
+}
+
+#navigator .nav-previous, #navigator .nav-next {
+    padding: 0 40px;
+}
+
+#navigator .nav-indicator {
+    font-size: 16pt;
 }
