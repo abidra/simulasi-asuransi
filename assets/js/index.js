@@ -1,9 +1,10 @@
-
-(function($, window, document) {
-    
-    $(function() {});
-
-
+$( document ).ready(function() {
+  $("#content-master").steps({
+      headerTag: "h3",
+      bodyTag: "section",
+      transitionEffect: "slideLeft",
+      autoFocus: true
+  });
     $('.choice-toggle').click(function(e) {
         var element = $(this);
 
@@ -20,5 +21,4 @@
         }
 
     });
-
-}(window.jQuery, window, document));
+});

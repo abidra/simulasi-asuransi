@@ -7,7 +7,6 @@
                 <h1 class="font-signature">FISHMAN</h1>
                 <p class="lead">FWD Insurance: Simulasi Harapan Masa Depan</p>
             </div>
-
         </div>
     </div>
 </div>
