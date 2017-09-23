@@ -39,6 +39,22 @@
     border-color: #a8a7a7;
 }
 
+.navbar {
+    border-radius: 0;
+    background: #fff;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar .logo {
+    margin-left: 0;
+    margin-right: 0;
+    color: #304d50;
+    float: none;
+    text-align: center;
+    font-size: 16pt;
+}
+
 .choice {
     display: inline-block;
     width: auto;
@@ -46,7 +62,7 @@
 
 .choice .panel {
     border-radius: 20px;
-    border: 3px solid #a8a7a7;
+    border: 2px solid #a8a7a7;
     margin-bottom: 10px;
     transition: 0.2s;
 }
@@ -68,8 +84,8 @@
 }
 
 .choice .choice-img {
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
 }
 
 .choice:hover, .choice:focus, .choice:active {
@@ -86,10 +102,15 @@
     top: 6px;
     font-size: 8pt;
     border-radius: 50%;
-    border: 3px solid #e87722;
+    border: 2px solid #e87722;
     color: #e87722;
     padding: 4px;
 }
+
+.choice-holder {
+    /*margin-top: 15px;*/
+}
+
 .okebanget .callout {
     display: block;
     -webkit-animation: fade-in .3s linear 1, move-up .3s linear 1;

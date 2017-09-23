@@ -3,21 +3,27 @@
     
     $(function() {});
 
-
     $('.choice-toggle').click(function(e) {
+
         var element = $(this);
+        var others = element.parents('.choice-scope').find('.choice-toggle').not(this);
+
+        console.log(others);
 
         e.preventDefault();
+        element.find('.choice-toggle-radio')[0].checked = true;
+        
+        others.removeClass('selected');
+        others.find('.glyphicon-ok').remove();
 
         if (element.hasClass('selected')) {
-            element.removeClass('selected');
-            element.find('.glyphicon-ok').remove();
-        } else {
-            element.addClass('selected');
-            element.find('.panel-body').prepend(
-                $('<span>').addClass('glyphicon glyphicon-ok animated bounceIn')
-            );
+            return;
         }
+            
+        element.addClass('selected');
+        element.find('.panel-body').prepend(
+            $('<span>').addClass('glyphicon glyphicon-ok animated bounceIn')
+        );    
 
     });
 

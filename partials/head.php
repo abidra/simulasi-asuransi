@@ -13,3 +13,9 @@
 </head>
 
 <body>
+
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <p class="navbar-text logo font-signature">FISHMAN</p>
+        </div>
+    </nav>
