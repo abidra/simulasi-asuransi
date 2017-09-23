@@ -34,6 +34,11 @@
     color: #304d50;
 }
 
+.btn.btn-signature.disabled {
+    color: #a8a7a7;
+    border-color: #a8a7a7;
+}
+
 .choice {
     display: inline-block;
     width: auto;

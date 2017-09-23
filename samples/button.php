@@ -16,6 +16,7 @@
 
 <div class="text-center" style="margin-top: 10px">
     <a class="btn btn-signature" href="#">Contoh Button</a>
+    <a class="btn btn-signature disabled" href="#">Contoh Button (Disabled)</a>
 </div>
 
 <script src="../bower_components/jquery/dist/jquery.min.js"></script>
