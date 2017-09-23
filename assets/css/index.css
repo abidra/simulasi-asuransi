@@ -1,0 +1,15 @@
+
+@import url('../fonts/circular-book/style.css');
+
+@font-face {
+    font-family: 'Reef';
+    src: url('../fonts/Reef.otf');
+}
+
+body {
+    font-family: 'Circular Book', Helvetica, sans-serif; 
+}
+
+.font-signature {
+    font-family: 'Reef', sans-serif;
+}
