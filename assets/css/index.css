@@ -34,6 +34,7 @@
     color: #304d50;
 }
 
+<<<<<<< HEAD
 .btn.btn-signature.disabled {
     color: #a8a7a7;
     border-color: #a8a7a7;
@@ -55,6 +56,8 @@
     font-size: 16pt;
 }
 
+=======
+>>>>>>> 2bb51f99c770e1733c89da277d9e9d67aaff4cfa
 .choice {
     display: inline-block;
     width: auto;
@@ -98,13 +101,12 @@
 
 .choice.selected .glyphicon-ok {
     position: absolute;
-    right: 6px;
-    top: 6px;
-    font-size: 8pt;
+    right: 7px;
+    top: 7px;
     border-radius: 50%;
     border: 2px solid #e87722;
     color: #e87722;
-    padding: 4px;
+    padding: 5px;
 }
 
 .choice-holder {
@@ -126,6 +128,7 @@
     font-family: 'Reef', sans-serif;
     left: -95px;
     padding: 7px 10px;
+    margin-bottom: 30px;
     position: relative;
     width: 200px;
     z-index: 4;
@@ -141,4 +144,7 @@
     left: 50%;
     margin-left: -7px;
     position: absolute;
+}
+.content{
+  background-color: #fff;
 }
