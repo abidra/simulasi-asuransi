@@ -63,8 +63,8 @@
 }
 
 .choice .choice-img {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
 }
 
 .choice:hover, .choice:focus, .choice:active {
@@ -77,12 +77,13 @@
 
 .choice.selected .glyphicon-ok {
     position: absolute;
-    right: 7px;
-    top: 7px;
+    right: 6px;
+    top: 6px;
+    font-size: 8pt;
     border-radius: 50%;
     border: 3px solid #e87722;
     color: #e87722;
-    padding: 5px;
+    padding: 4px;
 }
 .okebanget .callout {
     display: block;
