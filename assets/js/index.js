@@ -14,14 +14,18 @@
         $('#content-master').steps('previous');
         $(this).parent().find('.nav-current').text("0" + ($('#content-master').steps('getCurrentIndex') - (-1)));
 
-        $('.content-section.current').addClass('animated slideInLeft');
+        $('.content-section.current').addClass('animated slideInLeft').one('animationend', function () {
+            $(this).removeClass('animated slideInLeft')
+        });
     });
 
     $('#navigator').on('click', '.nav-next', function () {
         $('#content-master').steps('next');
         $(this).parent().find('.nav-current').text("0" + ($('#content-master').steps('getCurrentIndex') - (-1)));
 
-        $('.content-section.current').addClass('animated slideInRight');
+        $('.content-section.current').addClass('animated slideInRight').one('animationend', function () {
+            $(this).removeClass('animated slideInRight')
+        });
     });
 
     $('.choice-toggle').click(function(e) {

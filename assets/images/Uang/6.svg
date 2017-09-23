@@ -9,91 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="69.426659mm"
-   height="41.204437mm"
-   viewBox="0 0 246 145.99998"
+   width="80.715553mm"
+   height="58.137779mm"
+   viewBox="0 0 285.99999 206"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="6.svg">
   <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7191">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7193"
-         d="m -610,545.55947 a 30,30 0 0 0 -28.34961,20.28516 18.535015,18.535015 0 0 0 -3.11523,-0.28516 18.535015,18.535015 0 0 0 -18.53516,18.53516 18.535015,18.535015 0 0 0 0.0723,1.46484 l 78.17773,0 a 30,30 0 0 0 1.75,-10 30,30 0 0 0 -30,-30 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7197">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7199"
-         d="m -752.92969,604.09375 a 27.07004,27.07004 0 0 1 26.11133,20.04883 20,20 0 0 1 0.95898,-0.0488 20,20 0 0 1 20,20 l -70.82227,0 A 27.07004,27.07004 0 0 1 -780,631.16406 a 27.07004,27.07004 0 0 1 27.07031,-27.07031 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7218">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7220"
-         d="m -200,624.09449 a 40,40 0 0 0 -40,40 20,20 0 0 0 -20,20 l 118.25,0 a 30,30 0 0 0 1.75,-10 30,30 0 0 0 -25.17188,-29.57227 A 40,40 0 0 0 -200,624.09449 Z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7227">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7229"
-         d="m -320,564.09449 a 40,40 0 0 0 -40,40 20,20 0 0 0 -20,20 l 120,0 a 20,20 0 0 0 -20,-20 40,40 0 0 0 -40,-40 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7257">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7259"
-         d="m -760,1024.0945 a 29.999996,29.999996 0 0 0 -30,30 29.999996,29.999996 0 0 0 1.75,10 l -11.75,0 c -5.54,0 -10,4.46 -10,10 0,5.5399 4.46,10 10,10 l 40,0 60,0 c 5.54,0 10,-4.4601 10,-10 0,-5.54 -4.46,-10 -10,-10 l -31.75391,0 a 29.999996,29.999996 0 0 0 1.75391,-10 29.999996,29.999996 0 0 0 -30,-30 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7263">
-      <path
-         sodipodi:nodetypes="scssscssscs"
-         inkscape:connector-curvature="0"
-         id="path7265"
-         d="m -600,1024.0945 c -11.0457,0 -20,8.9543 -20,20 l -40,7e-4 c -5.54,10e-5 -10,4.46 -10,10 0,5.5399 4.46,10.0001 10,10 l 60,-7e-4 30,0 c 5.54,0 10,-4.4601 10,-10 0,-5.54 -4.46,-10 -10,-10 l -10,0 c 0,-11.0457 -8.9543,-20 -20,-20 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4094">
-      <path
-         sodipodi:nodetypes="cscsccccscsc"
-         inkscape:connector-curvature="0"
-         id="path4096"
-         d="m -760,-135.90551 0,-40 c 0,-20 20,-20 20,-20 l 20,0 c 20,0 20,-20 20,-20 l 0,-20 40,0 0,20 c 0,0 0,20 20,20 l 20,0 c 0,0 20,0 20,20 l 0,40"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4094-4">
-      <path
-         sodipodi:nodetypes="cscsccccscsc"
-         inkscape:connector-curvature="0"
-         id="path4096-63"
-         d="m -760,-135.90551 0,-40 c 0,-20 20,-20 20,-20 l 20,0 c 20,0 20,-20 20,-20 l 0,-20 40,0 0,20 c 0,0 0,20 20,20 l 20,0 c 0,0 20,0 20,20 l 0,40"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#1a1a1a"
@@ -102,11 +26,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.56637383"
-     inkscape:cx="165.51206"
-     inkscape:cy="-31.077717"
+     inkscape:cx="126.88035"
+     inkscape:cy="9.89586"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:window-width="1366"
@@ -127,8 +51,8 @@
        type="xygrid"
        id="grid8099"
        empspacing="20"
-       originx="-492.16327"
-       originy="-470.36395" />
+       originx="-16.999999"
+       originy="-357" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -146,190 +70,313 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 1"
-     transform="translate(-492.16327,-127.73056)">
+     transform="translate(-17,-181.09448)">
     <g
-       transform="translate(-624.83673,-873.36393)"
-       id="g11217">
+       transform="translate(-1500,-760)"
+       id="g11306"
+       inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\UI\Screen7\screen7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8170"
-         width="200"
-         height="20.000006"
-         x="1160"
-         y="1124.0945" />
-      <rect
-         inkscape:export-ydpi="59.016392"
-         inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         y="1104.0945"
-         x="1160"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1124.0945"
+         x="1560"
          height="20.000006"
          width="200"
-         id="rect8172"
+         id="rect8214"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8174"
+         id="rect8216"
          width="200"
          height="20.000006"
-         x="1160"
+         x="1560"
+         y="1104.0945" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1084.0945"
+         x="1560"
+         height="20.000006"
+         width="200"
+         id="rect8218"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8220"
+         width="200"
+         height="20.000006"
+         x="1560"
+         y="1104.0945" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1124.0945"
+         x="1560"
+         height="20.000006"
+         width="200"
+         id="rect8222"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8224"
+         width="200"
+         height="20.000006"
+         x="1560"
+         y="1064.0945" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1044.0945"
+         x="1560"
+         height="20.000006"
+         width="200"
+         id="rect8226"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8228"
+         width="200"
+         height="20.000006"
+         x="1560"
+         y="1024.0945" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1004.0945"
+         x="1560"
+         height="20.000006"
+         width="200"
+         id="rect8230"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8250"
+         width="200"
+         height="20.000006"
+         x="1560"
+         y="984.09448" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="964.09448"
+         x="1560"
+         height="20.000006"
+         width="200"
+         id="rect8252"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8254"
+         width="200"
+         height="20.000006"
+         x="1560"
+         y="944.09448" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#e87722;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8232"
+         width="80"
+         height="200"
+         x="1620"
+         y="944.09448" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1084.0945"
+         x="1620"
+         height="60"
+         width="80"
+         id="rect8234"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8236"
+         width="200"
+         height="20.000006"
+         x="1520"
+         y="1124.0945" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1104.0945"
+         x="1520"
+         height="20.000006"
+         width="200"
+         id="rect8238"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1104.0945"
+         x="1520"
+         height="20.000006"
+         width="200"
+         id="rect8240"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8242"
+         width="200"
+         height="20.000006"
+         x="1520"
+         y="1124.0945" />
+      <rect
+         inkscape:export-ydpi="59.016392"
+         inkscape:export-xdpi="59.016392"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect8244"
+         width="200"
+         height="20.000006"
+         x="1520"
          y="1084.0945" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         y="1104.0945"
-         x="1160"
-         height="20.000006"
-         width="200"
-         id="rect8178"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="59.016392"
-         inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8180"
-         width="200"
-         height="20.000006"
-         x="1160"
-         y="1124.0945" />
-      <rect
-         inkscape:export-ydpi="59.016392"
-         inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          y="1064.0945"
-         x="1160"
+         x="1520"
          height="20.000006"
          width="200"
-         id="rect8182"
+         id="rect8246"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8184"
+         id="rect8256"
          width="200"
          height="20.000006"
-         x="1160"
+         x="1520"
          y="1044.0945" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          y="1024.0945"
-         x="1160"
+         x="1520"
          height="20.000006"
          width="200"
-         id="rect8208"
+         id="rect8258"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8210"
-         width="200"
-         height="20.000006"
-         x="1160"
-         y="1004.0945" />
-      <rect
-         inkscape:export-ydpi="59.016392"
-         inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         y="1004.0945"
-         x="1220"
-         height="140"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
+         y="1024.0945"
+         x="1580"
+         height="119.99999"
          width="80"
-         id="rect8194"
+         id="rect8248"
          style="opacity:1;fill:#e87722;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          style="opacity:1;fill:none;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8176"
+         id="rect8260"
          width="80"
          height="60"
-         x="1220"
+         x="1700"
          y="1084.0945" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          y="1124.0945"
-         x="1120"
+         x="1600"
          height="20.000006"
          width="200"
-         id="rect8196"
+         id="rect8262"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8198"
+         id="rect8264"
          width="200"
          height="20.000006"
-         x="1120"
+         x="1600"
          y="1104.0945" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8200"
+         id="rect8266"
          width="200"
          height="20.000006"
-         x="1120"
+         x="1600"
          y="1104.0945" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          y="1124.0945"
-         x="1120"
+         x="1600"
          height="20.000006"
          width="200"
-         id="rect8202"
+         id="rect8268"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          y="1084.0945"
-         x="1120"
+         x="1600"
          height="20.000006"
          width="200"
-         id="rect8204"
+         id="rect8270"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <rect
          inkscape:export-ydpi="59.016392"
          inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8212"
-         width="200"
-         height="20.000006"
-         x="1120"
-         y="1064.0945" />
-      <rect
-         inkscape:export-ydpi="59.016392"
-         inkscape:export-xdpi="59.016392"
-         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s5.png"
+         inkscape:export-filename="G:\Lomba\FWD Hackathon 2017\Icons\Uang\s6.png"
          style="opacity:1;fill:#e87722;fill-opacity:1;stroke:#304d50;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect8206"
+         id="rect8278"
          width="80"
-         height="79.999992"
-         x="1180"
-         y="1064.0945" />
+         height="59.999992"
+         x="1660"
+         y="1084.0945" />
     </g>
   </g>
 </svg>

@@ -75,7 +75,7 @@
 .choice .choice-text {
     font-family: 'Reef', sans-serif;
     text-align: center;
-    font-size: 14pt;
+    font-size: 12pt;
     color: #304d50;
 }
 
@@ -149,6 +149,10 @@
 
 #content-master .steps, #content-master .actions, #content-master .content .title {
     display: none;
+}
+
+#content-master .content-section {
+    height: 625px;
 }
 
 #navigator {

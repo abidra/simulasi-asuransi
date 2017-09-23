@@ -1,7 +1,7 @@
-<span>AGE</span>
+<span>SURETY</span>
 <section class="content-section">
     <span class="okebanget okebanget-inline">
-        <span class="callout above text-center">Berapa Usia Anda?</span>
+        <span class="callout above text-center">Nilai Biaya Tanggungan</span>
     </span>
     <div class="choice-scope row">
         <div class="choice-holder col-xs-6">
@@ -9,66 +9,66 @@
                 <div class="panel panel-primary">
                     <div class="panel-body">
                         <span class="glyphicon glyphicon-ok"></span>
-                        <img class="choice-img" src="./assets/images/Umur/1.svg">
+                        <img class="choice-img" src="./assets/images/Waris/1.svg">
                     </div>
                 </div>
-                <p class="choice-text">&le; 20 Tahun</p>
-                <input type="radio" class="choice-toggle-radio hidden" name="age" value="1" checked>
+                <p class="choice-text">100 Juta</p>
+                <input type="radio" class="choice-toggle-radio hidden" name="job" value="1" checked>
             </a>
         </div>
         <div class="choice-holder col-xs-6">
             <a href="#" class="choice choice-toggle">
                 <div class="panel panel-primary">
                     <div class="panel-body">
-                        <img class="choice-img" src="./assets/images/Umur/2.svg">
+                        <img class="choice-img" src="./assets/images/Waris/2.svg">
                     </div>
                 </div>
-                <p class="choice-text">21-30 Tahun</p>
-                <input type="radio" class="choice-toggle-radio hidden" name="age" value="2">
+                <p class="choice-text">200 Juta</p>
+                <input type="radio" class="choice-toggle-radio hidden" name="job" value="2">
             </a>
         </div>
         <div class="choice-holder col-xs-6">
             <a href="#" class="choice choice-toggle">
                 <div class="panel panel-primary">
                     <div class="panel-body">
-                        <img class="choice-img" src="./assets/images/Umur/3.svg">
+                        <img class="choice-img" src="./assets/images/Waris/3.svg">
                     </div>
                 </div>
-                <p class="choice-text">31-40 Tahun</p>
-                <input type="radio" class="choice-toggle-radio hidden" name="age" value="3">
+                <p class="choice-text">300 Juta</p>
+                <input type="radio" class="choice-toggle-radio hidden" name="job" value="3">
             </a>
         </div>
         <div class="choice-holder col-xs-6">
             <a href="#" class="choice choice-toggle">
                 <div class="panel panel-primary">
                     <div class="panel-body">
-                        <img class="choice-img" src="./assets/images/Umur/4.svg">
+                        <img class="choice-img" src="./assets/images/Waris/4.svg">
                     </div>
                 </div>
-                <p class="choice-text">41-50 Tahun</p>
-                <input type="radio" class="choice-toggle-radio hidden" name="age" value="4">
+                <p class="choice-text">500 Juta</p>
+                <input type="radio" class="choice-toggle-radio hidden" name="job" value="4">
             </a>
         </div>
         <div class="choice-holder col-xs-6">
             <a href="#" class="choice choice-toggle">
                 <div class="panel panel-primary">
                     <div class="panel-body">
-                        <img class="choice-img" src="./assets/images/Umur/5.svg">
+                        <img class="choice-img" src="./assets/images/Waris/5.svg">
                     </div>
                 </div>
-                <p class="choice-text">51-60 Tahun</p>
-                <input type="radio" class="choice-toggle-radio hidden" name="age" value="5">
+                <p class="choice-text">1 Milyar</p>
+                <input type="radio" class="choice-toggle-radio hidden" name="job" value="5">
             </a>
         </div>
         <div class="choice-holder col-xs-6">
             <a href="#" class="choice choice-toggle">
                 <div class="panel panel-primary">
                     <div class="panel-body">
-                        <img class="choice-img" src="./assets/images/Umur/6.svg">
+                        <img class="choice-img" src="./assets/images/Waris/6.svg">
                     </div>
                 </div>
-                <p class="choice-text">&ge; 60 Tahun</p>
-                <input type="radio" class="choice-toggle-radio hidden" name="age" value="6">
+                <p class="choice-text">2 Milyar</p>
+                <input type="radio" class="choice-toggle-radio hidden" name="job" value="6">
             </a>
         </div>
     </div>
