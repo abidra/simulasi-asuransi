@@ -6,10 +6,81 @@
     src: url('../fonts/Reef.otf');
 }
 
-body {
+.font-fwd {
     font-family: 'Circular Book', Helvetica, sans-serif; 
 }
 
 .font-signature {
     font-family: 'Reef', sans-serif;
+}
+
+.btn.btn-signature {
+    border: 1px solid #e87722;
+    color: #e87722;
+    padding: 6px 25px;
+    font-size: 13pt;
+    transition: 0.2s;
+    font-family: 'Reef', sans-serif;
+    border-radius: 20px;
+}
+
+.btn.btn-signature:hover {
+    background: #e87722;
+    color: #fff;
+}
+
+.btn.btn-signature:focus {
+    border-color: #304d50;
+    color: #304d50;
+}
+
+.choice {
+    display: inline-block;
+    width: auto;
+}
+
+.choice .panel {
+    border-radius: 20px;
+    border: 3px solid #a8a7a7; 
+    margin-bottom: 10px;
+    transition: 0.2s;
+}
+
+.choice:hover .panel {
+    border-color: #898989;   
+}
+
+.choice .choice-text {
+    font-family: 'Reef', sans-serif;
+    text-align: center;
+    font-size: 14pt;
+    color: #304d50;
+}
+
+.choice .panel-body {
+    position: relative;
+    padding: 20px;
+}
+
+.choice .choice-img {
+    width: 150px;
+    height: 150px;
+}
+
+.choice:hover, .choice:focus, .choice:active {
+    text-decoration: none;
+}
+
+.choice.selected .panel {
+    border-color: #e87722;
+}
+
+.choice.selected .glyphicon-ok {
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    border-radius: 50%;
+    border: 3px solid #e87722;
+    color: #e87722;
+    padding: 5px;
 }
