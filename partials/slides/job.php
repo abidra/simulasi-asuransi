@@ -3,9 +3,9 @@
     <span class="okebanget okebanget-inline">
         <span class="callout above text-center">Jenis Pekerjaan</span>
     </span>
-    <div class="choice-scope row" style="padding-top:55px">
+    <div class="choice-scope row" style="padding-top:10px">
         <div class="choice-holder col-xs-6">
-            <a href="#" class="choice choice-toggle selected">
+            <a href="#" class="choice choice-toggle choice-with-data selected" data-text="Saya bekerja di dalam ruangan atau di kantor dengan sedikit atau tanpa menggunakan mesin.">
                 <div class="panel panel-primary">
                     <div class="panel-body">
                         <span class="glyphicon glyphicon-ok"></span>
@@ -17,7 +17,7 @@
             </a>
         </div>
         <div class="choice-holder col-xs-6">
-            <a href="#" class="choice choice-toggle">
+            <a href="#" class="choice choice-toggle choice-with-data" data-text="Saya sering bekerja dengan mesin atau peralatan ringan di luar ruangan.">
                 <div class="panel panel-primary">
                     <div class="panel-body">
                         <img class="choice-img" src="./assets/images/Kerja/2.svg">
@@ -28,7 +28,7 @@
             </a>
         </div>
         <div class="choice-holder col-xs-6">
-            <a href="#" class="choice choice-toggle">
+            <a href="#" class="choice choice-toggle choice-with-data" data-text="Saya kadang bekerja menggunakan mesin dan berpergian.">
                 <div class="panel panel-primary">
                     <div class="panel-body">
                         <img class="choice-img" src="./assets/images/Kerja/3.svg">
@@ -39,7 +39,7 @@
             </a>
         </div>
         <div class="choice-holder col-xs-6">
-            <a href="#" class="choice choice-toggle">
+            <a href="#" class="choice choice-toggle choice-with-data" data-text="Saya bekerja dengan mesin berukuran besar dan di luar ruangan.">
                 <div class="panel panel-primary">
                     <div class="panel-body">
                         <img class="choice-img" src="./assets/images/Kerja/4.svg">
@@ -50,5 +50,5 @@
             </a>
         </div>
     </div>
-    <p class="font-signature lead">Saya kadang bekerja menggunakan mesin dan berpergian.</p>
+    <p class="font-signature lead jobdesc"></p>
 </section>

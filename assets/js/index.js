@@ -23,6 +23,10 @@
         $('#content-master').steps('next');
         $(this).parent().find('.nav-current').text("0" + ($('#content-master').steps('getCurrentIndex') - (-1)));
 
+        if ($('#content-master').steps('getCurrentIndex') == 2) {
+            $('.jobdesc').text($('.choice-toggle.choice-with-data.selected').data('text'));
+        }
+
         $('.content-section.current').addClass('animated slideInRight').one('animationend', function () {
             $(this).removeClass('animated slideInRight')
         });
@@ -41,6 +45,10 @@
 
         if (element.hasClass('selected')) {
             return;
+        }
+
+        if ($('#content-master').steps('getCurrentIndex') == 2) {
+            $('.jobdesc').text(element.data('text'));
         }
             
         element.addClass('selected');

@@ -152,11 +152,16 @@
 }
 
 #content-master .content-section {
-    height: 625px;
+    height: 720px;
 }
 
 #navigator {
-    margin-top: 30px;
+    width: 365px;
+    padding: 15px 50px;
+    background: #fff;
+    position: fixed;
+    bottom: 0px;
+    /*margin-top: 30px;*/
 }
 
 #navigator .nav-previous, #navigator .nav-next {

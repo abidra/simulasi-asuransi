@@ -3,7 +3,7 @@
     <span class="okebanget okebanget-inline">
         <span class="callout above text-center">Jenis Kelamin</span>
     </span>
-    <div class="choice-scope" style="padding-top:90px">
+    <div class="choice-scope" style="padding-top:40px">
         <div class="choice-holder">
             <a href="#" class="choice choice-toggle selected">
                 <div class="panel panel-primary">
