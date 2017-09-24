@@ -40,6 +40,41 @@
     border-color: #a8a7a7;
 }
 
+.btn.btn-signature.btn-thick {
+    border-width: 2px;
+    font-size: 15pt;
+    padding: 8px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.btn.btn-signature.btn-dark {
+    border-color: #304d50;
+    color: #304d50;
+}
+
+.btn.btn-signature.btn-dark:hover {
+    background: #304d50;
+    color: #fff;
+}
+
+.btn.btn-signature.btn-dark:focus, .btn.btn-signature.btn-dark:active {
+    color: #304d50;
+}
+
+.btn.btn-signature.btn-socmed {
+    width: 280px;
+    font-size: 18pt;
+    padding: 8px 15px;
+    border-width: 2px;
+    border-radius: 30px;
+}
+
+.btn.btn-signature.btn-socmed .fa {
+    margin-right: 10px;
+}
+
+
 .navbar {
     border-radius: 0;
     background: #fff;
@@ -170,4 +205,93 @@
 
 #navigator .nav-indicator {
     font-size: 16pt;
+}
+
+.orange {
+    color: #e87722;
+}
+
+.large-img {
+    width: 200px;
+}
+
+.large-img-container {
+    margin: 20px 0 35px;
+}
+
+.p-signature {
+    margin-bottom: 0;
+    color: #304d50;
+}
+
+.outlined-gray {
+    padding: 5px 15px;
+    margin: 5px 0 10px;
+    font-size: 24pt;
+    color: #304d50;
+    border: 3px solid #a8a7a7;
+    border-radius: 50px;
+    position: relative;
+}
+
+.outlined-gray .outline-info {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: -25px;
+    font-size: 19pt;
+    color: #e87722;
+}
+
+.outlined-gray .outline-info span {
+    padding: 4px 10px;
+    background: #fff;
+}
+
+.fieldset-signature {
+    border: 3px solid #a8a7a7;
+    border-radius: 25px;
+    padding: 8px 12px 8px 0;
+}
+
+.fieldset-signature legend {
+    border: none;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    padding: 7px;
+    width: auto;
+    display: inline;
+    color: #e87722;
+}
+
+.ol-front-curve {
+    list-style-type: none;
+    counter-reset: elementcounter;
+    padding-left: 25px;
+    text-align: left;
+    font-size: 14pt;
+    color: #304d50;
+}
+
+.ol-front-curve li::before {
+    content: counter(elementcounter) ')  ';
+    counter-increment: elementcounter;
+}
+
+.light-gray {
+    color: #a8a7a7;
+}
+
+.warning-table {
+    width: 100%;
+    font-size: 18pt;
+}
+
+.warning-table td {
+    padding-top: 10px;
+}
+
+.text-thanks {
+    font-size: 48pt;
+    line-height: 0.95;
 }

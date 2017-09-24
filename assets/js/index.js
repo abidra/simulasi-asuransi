@@ -20,6 +20,11 @@
     });
 
     $('#navigator').on('click', '.nav-next', function () {
+
+        if ($('#content-master').steps('getCurrentIndex') == 6) {
+            return window.location.href = 'report.php';
+        }
+
         $('#content-master').steps('next');
         $(this).parent().find('.nav-current').text("0" + ($('#content-master').steps('getCurrentIndex') - (-1)));
 

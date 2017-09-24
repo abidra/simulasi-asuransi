@@ -1,26 +1,22 @@
 <?php include './partials/head.php' ?>
 
-<div class="container font-fwd">
+<div class="container font-signature" style="padding-top:10px">
     <div class="row">
-        <div class="col-xs-4 col-xs-offset-4">
-            <div id="content-master" class="text-center">
-                <?php 
-                    include './partials/slides/jk.php';
-                    include './partials/slides/age.php';
-                    include './partials/slides/job.php';
-                    include './partials/slides/income.php';
-                    include './partials/slides/expense.php';
-                    include './partials/slides/smoke.php';
-                    include './partials/slides/surety.php';
-                ?>
-                <div id="navigator" class="font-signature">
-                    <button type="button" class="btn btn-signature nav-previous pull-left">&lt;</button>
-                    <button type="button" class="btn btn-signature nav-next pull-right">&gt;</button>
-                    <p class="nav-indicator"><span class="nav-current">01</span>/07</p>
-                </div>
+        <div class="col-xs-4 col-xs-offset-4 text-center">
+            <div class="large-img-container">
+                <img class="large-img" src="./assets/images/logosimpanmapan.svg">
             </div>
+            <p class="p-signature lead">Selamat datang di aplikasi <span class="orange text-uppercase">Simpan Mapan</span>!</p>
+            <a href="slides.php" class="btn btn-signature btn-signature btn-socmed text-uppercase" style="margin-top: 30px">
+                <i class="fa fa-google fa-lg"></i> Sign in with Google
+            </a>
+            <a href="slides.php" class="btn btn-signature btn-signature btn-socmed btn-dark text-uppercase" style="margin-top: 10px">
+                <i class="fa fa-facebook fa-lg"></i> Sign in with Facebook
+            </a>
         </div>
     </div>
 </div>
+
+<script src="https://use.fontawesome.com/6e06a8868d.js"></script>
 
 <?php include './partials/foot.php' ?>

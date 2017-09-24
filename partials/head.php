@@ -12,10 +12,4 @@
 <link rel="stylesheet" href="./assets/css/custom.css">
 </head>
 
-<body>
-
-    <nav class="navbar navbar-default">
-        <div class="container">
-            <p class="navbar-text logo font-signature">Simpan Mapan</p>
-        </div>
-    </nav>
+<body style="margin-top:50px">
